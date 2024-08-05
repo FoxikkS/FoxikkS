@@ -38,7 +38,9 @@
   </a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FoxikkS&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=FoxikkS&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxikkS&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Ashutosh's github activity graph" />
+</a>
 
 
 <!--
