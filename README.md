@@ -19,7 +19,7 @@ Hi! Welcome to my Git.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png" alt="C++" width="50" height="50"> 
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" width="50" height="50"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" height="50">
 </p>
 
