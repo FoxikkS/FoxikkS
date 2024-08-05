@@ -1,7 +1,3 @@
-
-- ⚡ Fun fact: ...
--->
-Hi! Welcome to my Git.
 <img src="https://media2.giphy.com/media/bMyW51TS3QVVIPulMG/giphy.gif?cid=6c09b95287bj7rj2v93ecrn3166y6fah0res9fj1dqt6qkae&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Анимация" width="300" height="150">
 
 <p align="center">
@@ -12,7 +8,7 @@ Hi! Welcome to my Git.
 
 <hr>
 
-<h2 align="center" style="font-family: 'Roboto Mono', monospace;">Hello! I am a programmer from Russia🇷🇺</h2>
+<h2 align="center" style="font-family: 'Roboto Mono', monospace;">Hello! I am a programmer from Russia</h2>
 
 <p align="center" style="font-family: 'Roboto Mono', monospace;">
   I develop in languages such as:
