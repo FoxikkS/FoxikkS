@@ -9,21 +9,21 @@ Hi! Welcome to my Git.
 
 <hr>
 
-<h2 align="center">Hello! I am a programmer from Russia🇷🇺</h2>
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Hello! I am a programmer from Russia🇷🇺</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
   I develop in languages such as:
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C++" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png" alt="C++" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" height="50">
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
   Web technologies:
 </p>
 
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
