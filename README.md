@@ -41,7 +41,7 @@ Hi! Welcome to my Git.
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FoxikkS/FoxikkS&style=flat" alt="GitHub Profile Views" />
   </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FoxikkS)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FoxKK)](https://git.io/streak-stats)
 
 <!--
 FoxikkS/FoxikkS is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
