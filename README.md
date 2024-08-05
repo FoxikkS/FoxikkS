@@ -2,8 +2,8 @@ Hi! Welcome to my Git.
 <img src="https://media2.giphy.com/media/bMyW51TS3QVVIPulMG/giphy.gif?cid=6c09b95287bj7rj2v93ecrn3166y6fah0res9fj1dqt6qkae&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Анимация" width="300" height="150">
 
 <p align="center">
-  <a href="https://discord.gg/your_server_invite_link">
-    <img src="https://img.shields.io/badge/Discord-Join%20Now!-green.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://t.me/foxkk1">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Me!-blue.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
