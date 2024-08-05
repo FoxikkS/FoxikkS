@@ -1,3 +1,6 @@
+
+- ⚡ Fun fact: ...
+-->
 Hi! Welcome to my Git.
 <img src="https://media2.giphy.com/media/bMyW51TS3QVVIPulMG/giphy.gif?cid=6c09b95287bj7rj2v93ecrn3166y6fah0res9fj1dqt6qkae&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Анимация" width="300" height="150">
 
@@ -37,9 +40,7 @@ Hi! Welcome to my Git.
   <a href="https://github.com/FoxikkS">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FoxikkS/FoxikkS&style=flat" alt="GitHub Profile Views" />
   </a>
-  <a href="https://github.com/FoxikkS">
-    <img src="https://img.shields.io/github/commit-activity/m/FoxikkS?style=flat-square&logo=github&logoColor=white" alt="GitHub Commit Activity" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=FoxikkS)](https://git.io/streak-stats)
 </p>
 
 <!--
