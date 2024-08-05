@@ -33,6 +33,14 @@ Hi! Welcome to my Git.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT" width="50" height="50">
 </p>
 
+<p align="center">
+  <a href="https://github.com/FoxikkS">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=FoxikkS/FoxikkS&style=flat" alt="GitHub Profile Views" />
+  </a>
+  <a href="https://github.com/FoxikkS">
+    <img src="https://img.shields.io/github/commit-activity/m/FoxikkS?style=flat-square&logo=github&logoColor=white" alt="GitHub Commit Activity" />
+  </a>
+</p>
 
 <!--
 FoxikkS/FoxikkS is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
