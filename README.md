@@ -40,8 +40,9 @@ Hi! Welcome to my Git.
   <a href="https://github.com/FoxikkS">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FoxikkS/FoxikkS&style=flat" alt="GitHub Profile Views" />
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FoxikkS&theme=dark" alt="GitHub Streak" /></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FoxKK)](https://git.io/streak-stats)
+
 
 <!--
 FoxikkS/FoxikkS is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
