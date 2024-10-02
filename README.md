@@ -15,10 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" width="50" height="50"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" height="50">
 </p>
 
@@ -33,9 +31,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FoxikkS">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=FoxikkS/FoxikkS&style=flat" alt="GitHub Profile Views" />
-  </a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FoxikkS&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
