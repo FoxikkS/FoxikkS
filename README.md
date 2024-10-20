@@ -8,16 +8,12 @@
 
 <hr>
 
-<h2 align="center" style="font-family: 'Roboto Mono', monospace;">Hello! I am a developer</h2>
-
-<p align="center" style="font-family: 'Roboto Mono', monospace;">
-  I develop in:
-</p>
+<h2 align="center" style="font-family: 'Roboto Mono', monospace;">Привет! я разработчик на:</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/7f31f16a176a49233a2ac1b29c62d7b35f8d8d6b/topics/cpp/cpp.png" alt="C++" width="50" height="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-2-1175241.png" alt="C#" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
 </p>
 
 <p align="center" style="font-family: 'Roboto Mono', monospace;">
@@ -36,4 +32,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxikkS&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub activity graph" />
 </a>
+
 
