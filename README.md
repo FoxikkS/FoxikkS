@@ -18,10 +18,8 @@
 </h2>
 
 <!-- Языки разработки -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50" style="margin: 0 10px;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-2-1175241.png" alt="C#" width="50" height="50" style="margin: 0 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" style="margin: 0 10px;">
+<div align="center" style="font-size: 20px; font-family: 'Roboto', sans-serif; color: #34495e; margin-bottom: 20px;">
+  Python, C#, C++
 </div>
 
 <!-- Интересы -->
@@ -36,12 +34,12 @@
   <li>⚙️ Bots (Python)</li>
 </ul>
 
-<!-- Дополнительные плашки -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Code-C%2B%2B%2C%20C%23%2C%20Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a" alt="Code">
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio%2C%20PyCharm-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white" alt="IDE">
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20Docker%2C%20CI/CD-orange?style=for-the-badge&logo=docker&logoColor=white" alt="Tools">
-</div>
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=FoxikkS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 <!-- Плашка с языками -->
 <p align="center">
@@ -62,6 +60,5 @@
 <p align="center" style="font-family: 'Montserrat', sans-serif; font-size: 16px; color: #95a5a6;">
   © 2024 FoxKK - Developer Portfolio
 </p>
-
 
 
