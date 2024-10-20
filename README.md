@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2 align="center" style="font-family: 'Roboto Mono', monospace;">Привет! я разработчик на:</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 28px;">Hello! I am a developer in:</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">
@@ -16,14 +16,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
 </p>
 
-<p align="center" style="font-family: 'Roboto Mono', monospace;">
+<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 22px; font-weight: bold;">
   I'm interested in developing:
-</p>
+</h2>
 
-<ul style="font-family: 'Roboto Mono', monospace; text-align: center;">
-  <li>Desktop games (Unreal Engine, C++)</li>
-  <li>Mobile games (Unity, C#)</li>
-  <li>Bots (Python)</li>
+<ul style="font-family: 'Roboto', sans-serif; font-size: 20px; text-align: center; list-style-type: none;">
+  <li>🎮 Desktop games (Unreal Engine, C++)</li>
+  <li>📱 Mobile games (Unity, C#)</li>
+  <li>⚙️ Bots (Python)</li>
 </ul>
 
 <p align="center">
@@ -32,5 +32,3 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxikkS&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub activity graph" />
 </a>
-
-
