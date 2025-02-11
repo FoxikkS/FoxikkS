@@ -19,7 +19,7 @@
 
 <!-- Языки разработки -->
 <div align="center" style="font-size: 20px; font-family: 'Roboto', sans-serif; color: #34495e; margin-bottom: 20px;">
-  Python, C#, C++
+  Python, C#
 </div>
 
 <!-- Интересы -->
