@@ -29,8 +29,7 @@
 
 <!-- Список интересов с иконками -->
 <ul style="font-family: 'Roboto', sans-serif; font-size: 20px; text-align: center; list-style-type: none; padding: 0;">
-  <li>🎮 Desktop games (Unreal Engine, C++)</li>
-  <li>📱 Mobile games (Unity, C#)</li>
+  <li>📱 Mobile/PC games (Unity, C#)</li>
   <li>⚙️ Bots (Python)</li>
 </ul>
 
