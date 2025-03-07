@@ -5,7 +5,7 @@
 
 <!-- Telegram кнопка -->
 <p align="center">
-  <a href="https://t.me/foxKK66">
+  <a href="https://t.me/bioFoxKK">
     <img src="https://img.shields.io/badge/Telegram-Join%20Me!-1da1f2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
