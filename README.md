@@ -33,13 +33,6 @@
   <li>⚙️ Bots (Python)</li>
 </ul>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=FoxikkS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
 <!-- Плашка с языками -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
