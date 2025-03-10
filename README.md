@@ -50,7 +50,7 @@
 <!-- Footer -->
 <hr>
 <p align="center" style="font-family: 'Montserrat', sans-serif; font-size: 16px; color: #95a5a6;">
-  © 2024 FoxKK - Developer Portfolio
+  © 2025 FoxKK - Developer Portfolio
 </p>
 
 
