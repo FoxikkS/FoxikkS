@@ -22,25 +22,40 @@
 </p>
 
 <!-- Языки разработки -->
+<h2 align="center" style="font-size: 22px; color: #3498db;">💻 Technologies I use</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
-<!-- Интересы -->
-<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 24px; color: #f39c12; font-weight: bold; margin-top: 20px;">
-  🌟 Interests
-</h2>
+<!-- Разделитель -->
+<br>
 
+<!-- Интересы -->
+<h2 align="center" style="font-size: 22px; color: #f39c12;">🌟 Interests</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Development-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev">
   <img src="https://img.shields.io/badge/Bots%20&%20Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Bots">
 </p>
 
-<!-- Плашка с языками -->
+<!-- Разделитель -->
+<br>
+
+<!-- GitHub Статистика -->
+<h2 align="center" style="font-size: 22px; color: #2ecc71;">📊 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxikkS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=FoxikkS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoxikkS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -51,11 +66,11 @@
   </a>
 </p>
 
-<!-- Соцсети -->
-<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 24px; color: #e74c3c; font-weight: bold; margin-top: 20px;">
-  🔗 Connect with me
-</h2>
+<!-- Разделитель -->
+<br>
 
+<!-- Соцсети -->
+<h2 align="center" style="font-size: 22px; color: #e74c3c;">🔗 Connect with me</h2>
 <p align="center">
   <a href="https://t.me/bioFoxKK" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
