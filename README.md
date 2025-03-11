@@ -25,6 +25,8 @@
 <h2 align="center" style="font-size: 22px; color: #3498db;">💻 Technologies I use</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
@@ -35,6 +37,8 @@
 <h2 align="center" style="font-size: 22px; color: #f39c12;">🌟 Interests</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Development-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Bots%20&%20Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Bots">
 </p>
 
