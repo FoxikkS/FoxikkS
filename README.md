@@ -8,10 +8,6 @@
   👋 Hello! I'm Andrey
 </h2>
 
-<p align="center" style="font-family: 'Montserrat', sans-serif; font-size: 18px; color: #b0c4de;">
-  A passionate developer in:
-</p>
-
 <!-- Языки разработки -->
 <p align="center" style="font-size: 22px; color: #3498db;">💻 Technologies I use</p>
 <p align="center">
