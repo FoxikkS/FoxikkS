@@ -31,6 +31,12 @@
 ***
 
 <!-- GitHub Статистика -->
+<h2 align="center" style="font-size: 22px; color: #2ecc71;">📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxikkS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxikkS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=FoxikkS&show_icons=true&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=FoxikkS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
