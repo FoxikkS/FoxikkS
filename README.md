@@ -9,31 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
-
-***
-
-<!-- Интересы -->
-<h2 align="center" style="font-size: 22px; color: #f39c12;">🌟 Interests</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Development-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bots%20&%20Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Bots">
-</p>
-
-***
-
 <!-- GitHub Статистика -->
-<h2 align="center" style="font-size: 22px; color: #2ecc71;">📊 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxikkS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxikkS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=FoxikkS&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoxikkS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 <!-- Граф активности -->
 <p align="center">
