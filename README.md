@@ -2,15 +2,6 @@
   <img src="https://media2.giphy.com/media/bMyW51TS3QVVIPulMG/giphy.gif?cid=6c09b95287bj7rj2v93ecrn3166y6fah0res9fj1dqt6qkae&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Animation" width="320" height="160">
 </div>
 
-<!-- Языки разработки -->
-<p align="center" style="font-size: 22px; color: #3498db;">💻 Technologies I use</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</p>
-<!-- GitHub Статистика -->
-
 <!-- Граф активности -->
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=FoxikkS&bg_color=0d1117&color=79ff97&line=00ff00&point=79ff97&area=true&hide_border=true">
